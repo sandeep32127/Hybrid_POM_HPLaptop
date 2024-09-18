@@ -1,0 +1,5 @@
+com\pages\LoginPage.class
+com\utils\WebDriverFactory.class
+com\pages\AccountsPage.class
+com\utils\ConfigReader.class
+com\utils\Demo.class

@@ -1,0 +1,5 @@
+parallelRunTestNG\AccountsPageSteps.class
+com\testrunners\TestRunner.class
+parallelRunTestNG\ParallelRun.class
+parallelRunTestNG\Hooks.class
+parallelRunTestNG\LoginPageSteps.class
